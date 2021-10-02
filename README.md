@@ -24,6 +24,8 @@ IT Services
   Virtual Networking
   VPN (Secured Remote connection)
   
+  Password Management (Bitwarden and/or KeePass)
+  
 
 IT Organization
   Folder Hiearchy Organization
